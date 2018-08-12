@@ -2,13 +2,30 @@ const express =require('express')
 
 const app = express()
 
+var mongoose =require("mongoose")
+
+mongoose.connect('mongodb://localhost/database')
+
+app.set('view engine','hbs')
+
+app.use(express.json());
+
+app.use(express.urlencoded({extended:true}))
+
+
 app.use('/',express.static(__dirname + '/public_static'))
 
-app.use('/Cars',express.static(__dirname + '/public_static/Cars.html'))
-
-app.use('/Car-Selection',express.static(__dirname + '/public_static/Car-Selection.html'))
+app.use('/',require('./routes/index_js/index'));
+app.use('/bus',require('./routes/bus_js/bus'));
+app.use('/cars',require('./routes/car_js/cars'));
+app.use('/hotel',require('./routes/hotel_js/hotel'));
+app.use('/flights',require('./routes/flight_js/flights'));
+app.use('/Login',require('./routes/login_js/login'));
+app.use('/SignUp',require('./routes/signup_js/signup'));
+app.use('/trains',require('./routes/train_js/trains'));
 
 app.listen(3300,()=>{
     console.log('server started at http://localhost:3300')
 });
+
 

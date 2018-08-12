@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf24df55-f20f-475d-98b1-4c86e918febe" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SignUp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jscript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mystyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_static/Car-Selection.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_static/Cars.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_static/Wagnor.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_static/avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_static/car-selection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_static/car.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_static/colombia.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_static/date.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_static/flights.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_static/images1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_static/india.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_static/indonesia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_static/leh.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_static/locate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_static/location.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_static/manali.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_static/mountain.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_static/nanital.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_static/photography-background-14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_static/premier.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_static/profile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_static/sedan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_static/singapore.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_static/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_static/style1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_static/suv.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_static/trip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="24" column="55" lean-forward="true" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SignUp.hbs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/SignUp.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-209" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Login.hbs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/Login.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.hbs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/index.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="131">
+              <caret line="52" column="20" lean-forward="true" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#1;n#div#1;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bus.hbs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/bus.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="flights.hbs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/flights.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="266" column="73" selection-start-line="265" selection-start-column="16" selection-end-line="266" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="trains.hbs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/trains.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hotel.hbs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/hotel.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="109" column="23" selection-start-line="109" selection-start-column="23" selection-end-line="109" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public_static/style/hotel_css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="417" column="5" lean-forward="true" selection-start-line="417" selection-start-column="5" selection-end-line="417" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../cardoor/index2.html" />
+        <option value="$PROJECT_DIR$/jscript.js" />
+        <option value="$PROJECT_DIR$/Login.html" />
+        <option value="$PROJECT_DIR$/mystyle.css" />
+        <option value="$PROJECT_DIR$/SignUp.html" />
+        <option value="$PROJECT_DIR$/Front_page.html" />
+        <option value="$PROJECT_DIR$/public_static/car-selection.js" />
+        <option value="$PROJECT_DIR$/public_static/Cars.html" />
+        <option value="$PROJECT_DIR$/public_static/flights.html" />
+        <option value="$PROJECT_DIR$/public_static/flight_ticket_booking/flights.html" />
+        <option value="$PROJECT_DIR$/public_static/flight_ticket_booking/js/jquery-ui.js" />
+        <option value="$PROJECT_DIR$/public_static/hotel_booking/css/style.css" />
+        <option value="$PROJECT_DIR$/public_static/hotel_booking/hotel.html" />
+        <option value="$PROJECT_DIR$/public_static/car_booking/cars.html" />
+        <option value="$PROJECT_DIR$/public_static/flight_ticket_booking/css/style.css" />
+        <option value="$PROJECT_DIR$/public_static/flight_ticket_booking/trains.html" />
+        <option value="$PROJECT_DIR$/public_static/front_page/index.html" />
+        <option value="$PROJECT_DIR$/public_static/index.html" />
+        <option value="$PROJECT_DIR$/public_static/car_booking/css/style.css" />
+        <option value="$PROJECT_DIR$/public_static/car_booking/bus.html" />
+        <option value="$PROJECT_DIR$/routes/index.js" />
+        <option value="$PROJECT_DIR$/routes/car_js/cars.js" />
+        <option value="$PROJECT_DIR$/routes/flight_train_js/flights.js" />
+        <option value="$PROJECT_DIR$/routes/bus_js/bus.js" />
+        <option value="$PROJECT_DIR$/routes/hotel_js/hotel.js" />
+        <option value="$PROJECT_DIR$/routes/train_js/trains.js" />
+        <option value="$PROJECT_DIR$/routes/login_js/login.js" />
+        <option value="$PROJECT_DIR$/routes/signup_js/signup.js" />
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/views/bus.hbs" />
+        <option value="$PROJECT_DIR$/public_static/style/car_css/style.css" />
+        <option value="$PROJECT_DIR$/views/cars.hbs" />
+        <option value="$PROJECT_DIR$/views/flights.hbs" />
+        <option value="$PROJECT_DIR$/public_static/style/flight_train_css/style.css" />
+        <option value="$PROJECT_DIR$/views/hotel.hbs" />
+        <option value="$PROJECT_DIR$/public_static/style/hotel_css/style.css" />
+        <option value="$PROJECT_DIR$/views/Login.hbs" />
+        <option value="$PROJECT_DIR$/views/index.hbs" />
+        <option value="$PROJECT_DIR$/views/trains.hbs" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/node_modules/@types/geojson/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/@types/node/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/abbrev/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/align-text/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/amdefine/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/aproba/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/are-we-there-yet/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/bluebird/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/body-parser/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/body-parser/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/bson/browser_build/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/bson/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/center-align/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/chownr/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/cliui/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/cls-bluebird/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/code-point-at/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/console-control-strings/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/deep-extend/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/delegates/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/detect-libc/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/dottie/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/express/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/express/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/finalhandler/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/foreachasync/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/fs-minipass/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/fs.realpath/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/gauge/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/generic-pool/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/handlebars/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/handlebars/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/has-unicode/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/hbs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ignore-walk/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/inflection/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ini/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-bluebird/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/kareem/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lazy-cache/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lodash.get/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/longest/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/minipass/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/minizlib/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/moment-timezone/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/moment/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mongodb-core/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mongodb/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mongoose-legacy-pluralize/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mongoose/examples/aggregate/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mongoose/examples/express/connection-sharing/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mongoose/examples/geospatial/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mongoose/examples/lean/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mongoose/examples/mapreduce/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mongoose/examples/promises/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mongoose/examples/querybuilder/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mongoose/examples/replicasets/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mongoose/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mpath/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mquery/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/nan/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/nan/tools/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/needle/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/needle/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-pre-gyp/lib/util/nw-pre-gyp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-pre-gyp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/nopt/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/npm-bundled/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/npm-packlist/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/npmlog/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/number-is-nan/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/optimist/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/os-homedir/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/os-tmpdir/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/osenv/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/raw-body/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/raw-body/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/raw-body/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/raw-body/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/rc/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/rc/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/regexp-clone/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/require_optional/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/require_optional/test/nestedTest/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/resolve-from/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/retry-as-promised/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/retry-as-promised/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/right-align/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/rimraf/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/saslprep/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/sax/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/send/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/sequelize/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/set-blocking/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/shimmer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/signal-exit/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/sliced/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/sqlite3/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/strip-json-comments/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/tar/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/terraformer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/toposort-class/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/uglify-js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/uglify-to-browserify/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/uuid/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/validator/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/walk/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/wide-align/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/window-size/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/wkx/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/yallist/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/yargs/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="y" value="2" />
+    <option name="width" value="1378" />
+    <option name="height" value="733" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="book - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book - Copy" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="pic&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\smart\Desktop\Lets_code\Webstorm_project\book\public_static\car_booking" />
+      <recent name="C:\Users\smart\Desktop\Lets_code\Webstorm_project\book\public_static" />
+      <recent name="C:\Users\smart\Desktop\Lets_code\Webstorm_project\book\public_static\flight_ticket_booking" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="server.js" working-dir="$PROJECT_DIR$" />
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.server.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf24df55-f20f-475d-98b1-4c86e918febe" name="Default" comment="" />
+      <created>1531305137319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531305137319</updated>
+      <workItem from="1531305154030" duration="5327000" />
+      <workItem from="1531329367073" duration="7151000" />
+      <workItem from="1531388642395" duration="9836000" />
+      <workItem from="1531411980453" duration="12845000" />
+      <workItem from="1531466590552" duration="16699000" />
+      <workItem from="1531567982489" duration="591000" />
+      <workItem from="1531655441529" duration="844000" />
+      <workItem from="1532783172287" duration="412000" />
+      <workItem from="1532854812497" duration="7839000" />
+      <workItem from="1533974110700" duration="7666000" />
+      <workItem from="1533987832075" duration="5430000" />
+      <workItem from="1534065006995" duration="215000" />
+      <workItem from="1534065569625" duration="2405000" />
+      <workItem from="1534068334725" duration="10843000" />
+      <workItem from="1534092495285" duration="1968000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="90170000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18898809" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49925596" weight="0.32838285" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.21800596" side_tool="true" weight="0.32838285" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.78199404" weight="0.32838285" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.86160713" visible="true" weight="0.31518152" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32838285" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16071428" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49925596" weight="0.32838285" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.78199404" weight="0.32838285" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.86160713" weight="0.31518152" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.21800596" side_tool="true" weight="0.32838285" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32838285" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Front_page.html" />
+    <entry file="file://$PROJECT_DIR$/public_static/date.js" />
+    <entry file="file://$PROJECT_DIR$/public_static/car-selection.js" />
+    <entry file="file://$PROJECT_DIR$/public_static/Car-Selection.html" />
+    <entry file="file://$PROJECT_DIR$/public_static/Cars.html" />
+    <entry file="file://$PROJECT_DIR$/SignUp.html" />
+    <entry file="file://$PROJECT_DIR$/public_static/flights.html" />
+    <entry file="file://$PROJECT_DIR$/public_static/flight_ticket_booking/js/jquery.min.js" />
+    <entry file="file://$PROJECT_DIR$/public_static/flight_ticket_booking/js/easyResponsiveTabs.js" />
+    <entry file="file://$PROJECT_DIR$/public_static/flight_ticket_booking/js/jquery-ui.js" />
+    <entry file="file://$PROJECT_DIR$/jscript.js" />
+    <entry file="file://$PROJECT_DIR$/public_static/hotel_booking/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/public_static/hotel_booking/hotel.html" />
+    <entry file="file://$PROJECT_DIR$/public_static/flight_ticket_booking/flights.html" />
+    <entry file="file://$PROJECT_DIR$/public_static/flight_ticket_booking/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/public_static/front_page/index.html" />
+    <entry file="file://$PROJECT_DIR$/public_static/bus.html" />
+    <entry file="file://$PROJECT_DIR$/public_static/flight_ticket_booking/trains.html" />
+    <entry file="file://$PROJECT_DIR$/public_static/car_booking/bus.html" />
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_static/car_booking/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/public_static/index.html" />
+    <entry file="file://$PROJECT_DIR$/public_static/car_booking/cars.html" />
+    <entry file="file://$PROJECT_DIR$/routes/index.js" />
+    <entry file="file://$PROJECT_DIR$/routes/login_signup/jscript.js" />
+    <entry file="file://$PROJECT_DIR$/routes/car_js/wickedpicker.js" />
+    <entry file="file://$PROJECT_DIR$/routes/bus_js/bus.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/hotel_js/hotel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/flight_js/flights.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/login_js/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/car_js/cars.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index_js/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/train_js/trains.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/signup_js/signup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_static/javascript/bus_js/wickedpicker.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_static/javascript/bus_js/jquery-ui.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="21" lean-forward="true" selection-end-line="14912" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_static/javascript/bus_js/jquery-2.1.4.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_static/style/car_css/wickedpicker.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_static/style/car_css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="35" column="30" lean-forward="true" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/cars.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="50" selection-start-line="37" selection-start-column="50" selection-end-line="37" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_static/style/flight_train_css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="47" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="24" column="55" lean-forward="true" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/bus.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/flights.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="266" column="73" selection-start-line="265" selection-start-column="16" selection-end-line="266" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/hotel.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="109" column="23" selection-start-line="109" selection-start-column="23" selection-end-line="109" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_static/style/hotel_css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="417" column="5" lean-forward="true" selection-start-line="417" selection-start-column="5" selection-end-line="417" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/SignUp.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-209" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/Login.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="52" column="20" lean-forward="true" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#1;n#div#1;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/trains.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
