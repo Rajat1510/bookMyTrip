@@ -1,6 +1,6 @@
 {
   "name": "node.js",
-  "version": "1.0.0",
+  "version": "10.5.0",
   "description": "\"# bookMyTrip\" \r \"# bookMyTrip\"",
   "main": "server.js",
   "dependencies": {
