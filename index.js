@@ -19,9 +19,7 @@ app.use('/flights',require('./routes/flight_js/flights'));
 app.use('/Login',require('./routes/login_js/login'));
 app.use('/SignUp',require('./routes/signup_js/signup'));
 app.use('/trains',require('./routes/train_js/trains'));
-
 const port = process.env.PORT || 3000;
-
 app.listen(port, () => {
     console.log("App is running on port " + port);
 });
