@@ -2,10 +2,6 @@ const express =require('express')
 
 const app = express()
 
-var mongoose =require("mongoose")
-
-mongoose.connect('mongodb://localhost/database')
-
 app.set('view engine','hbs')
 
 app.use(express.json());
@@ -24,8 +20,10 @@ app.use('/Login',require('./routes/login_js/login'));
 app.use('/SignUp',require('./routes/signup_js/signup'));
 app.use('/trains',require('./routes/train_js/trains'));
 
-app.listen(3300,()=>{
-    console.log('server started at http://localhost:3300')
+const port = process.env.PORT || 3000;
+
+app.listen(port, () => {
+    console.log("App is running on port " + port);
 });
 
 
