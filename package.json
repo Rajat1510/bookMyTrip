@@ -1,0 +1,25 @@
+{
+  "name": "node",
+  "version": "10.5.0",
+  "description": "\"# bookMyTrip\" \r \"# bookMyTrip\"",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "hbs": "^4.0.1",
+    "sqlite": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajat1510/bookMyTrip.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajat1510/bookMyTrip/issues"
+  },
+  "homepage": "https://github.com/Rajat1510/bookMyTrip#readme"
+}
