@@ -19,5 +19,5 @@ app.use('/flights',require('./routes/flight_js/flights'));
 app.use('/Login',require('./routes/login_js/login'));
 app.use('/SignUp',require('./routes/signup_js/signup'));
 app.use('/trains',require('./routes/train_js/trains'));
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 8000;
 app.listen(process.env.PORT || port);
